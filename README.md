@@ -1,5 +1,5 @@
 # html-sort-the-list
-This is just a hacky draft web page where you have to put elements in the right order. Could be useful for a puzzle or escape room ;)
+This is just a hacky draft web page where you have to put elements in the right order. Could be useful for a puzzle or escape room. ;)
 
 Code is based on https://codepen.io/panino/pen/PozbYEe. I belive it could be heavily refactored.
 
