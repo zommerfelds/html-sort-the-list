@@ -9,6 +9,7 @@ body {
     font-weight: bold;
     font-size: 30px;
     letter-spacing: 2px;
+    color: #dfe6d5;
 }
 
 ul {
@@ -49,4 +50,5 @@ li {
     padding-top: 50px;
     text-align: center;
     font-size: 40px;
+    color: #000000;
 }
