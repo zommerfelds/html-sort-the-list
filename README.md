@@ -5,3 +5,5 @@ Code is based on https://codepen.io/panino/pen/PozbYEe. I belive it could be hea
 
 ![screen 1](https://github.com/zommerfelds/html-sort-the-list/assets/1260622/f63fa1ee-6c86-432f-8bde-5e6ea9781e6c)
 ![screen 2](https://github.com/zommerfelds/html-sort-the-list/assets/1260622/96c1de00-813f-4461-b484-df1c18af2db6)
+
+Check the live demo [here](https://zommerfelds.github.io/html-sort-the-list/).

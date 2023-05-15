@@ -188,7 +188,6 @@ function renderizar() {
     let i = 1;
     let correctOrder = true;
     for (let li of arr) {
-        console.log(li.getAttribute('id'), 'e' + i);
         if (li.getAttribute('id') != 'e' + i) {
             correctOrder = false;
             break;
